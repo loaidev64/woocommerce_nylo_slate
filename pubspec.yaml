@@ -1,7 +1,15 @@
-name: my_slate_template
-description: A new Slate package to quickly scaffold your project.
+name: woocommerce_nylo_slate
+description: A Slate package to quickly start your next woocommerce flutter project.
 version: 0.0.1
-homepage: https://nylo.dev
+repository: https://github.com/loaidev64/woocommerce_rest_api_toolkit.git
+homepage: https://github.com/loaidev64/woocommerce_rest_api_toolkit.git
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
 
 environment:
   sdk: ">=2.19.0 <3.0.0"
@@ -19,9 +27,9 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^3.0.1
 
-screenshots:
-  - description: The package logo.
-    path: screenshots/logo.png
+# screenshots:
+#   - description: The package logo.
+#     path: screenshots/logo.png
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

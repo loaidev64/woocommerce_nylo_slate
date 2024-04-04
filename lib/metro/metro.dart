@@ -9,7 +9,7 @@ import 'package:nylo_support/metro/metro_console.dart';
 import 'package:nylo_support/metro/metro_service.dart';
 import 'package:nylo_support/metro/models/ny_command.dart';
 import 'package:nylo_support/metro/models/ny_template.dart';
-import '/my_slate_template.dart';
+import '../woocommerce_nylo_slate.dart';
 import '/metro/menu.dart';
 
 final ArgParser parser = ArgParser(allowTrailingOptions: true);
